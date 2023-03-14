@@ -53,7 +53,7 @@ const LeftBanner = () => {
               </a>
             </span>
             <span className="bannerIcon">
-              <a href='https://github.com/Aastha-05'>
+              <a href='https://github.com/aasthanaik0507'>
                 <FaGithub />
               </a>
             </span>
